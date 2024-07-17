@@ -2,6 +2,7 @@ import React from "react";
 import SearchBar from "./SearchBar";
 import TableFooter from "./TableFooter";
 import useTableHook from "../hooks/table";
+import "./style.scss";
 
 
 interface HeaderDataProps {
