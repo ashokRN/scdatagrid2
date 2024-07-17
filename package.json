@@ -13,12 +13,16 @@
     "typescript",
     "npm"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Ashok",
+  "license": "MIT",
   "description": "",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ashokRN/scdatagrid2.git"
   },
   "peerDependencies": {
     "react": "^16.8.0",
