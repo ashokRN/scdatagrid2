@@ -13,6 +13,6 @@ module.exports = {
       strict: false
     }
   ],
-  plugins: [sass({ insert: true }), typescript()],
+  plugins: [sass({ insert: true ,  output: 'dist/styles.css' }), typescript()],
   external: ['react', 'react-dom']
 }
